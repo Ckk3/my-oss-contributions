@@ -15,3 +15,11 @@ This repository functions as a catalog of my contributions to open-source projec
   - [Refactor tests to use pytest.fixtures](https://github.com/strawberry-graphql/strawberry-sqlalchemy/pull/42)
 
 
+### Sistema de Evolução Clínica
+
+- **Description**: Simple Open Source Map of Inpatients to Emergency Units - Medical Aid Tool. This project helped me a lot to learn in practice the concepts of working with real projects, thinking about code integrity and maintenance.
+- **Link**: [Project Link](https://github.com/filiperochalopes/sistema-evolucao-medica)
+- **Contributions**:
+  - I was responsible for creating all PDF's creation modules using Flask and GraphQl.
+
+
