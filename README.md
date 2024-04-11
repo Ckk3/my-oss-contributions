@@ -14,7 +14,7 @@ This repository functions as a catalog of my contributions to open-source projec
   - [SQLAlchemy JSON support](https://github.com/strawberry-graphql/strawberry-sqlalchemy/pull/40)
   - [Refactor tests to use pytest.fixtures](https://github.com/strawberry-graphql/strawberry-sqlalchemy/pull/42)
 
-
+___
 ### Sistema de Evolução Clínica
 
 - **Description**: Simple Open Source Map of Inpatients to Emergency Units - Medical Aid Tool. This project helped me a lot to learn in practice the concepts of working with real projects, thinking about code integrity and maintenance.
