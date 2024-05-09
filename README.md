@@ -14,6 +14,17 @@ This repository functions as a catalog of my contributions to open-source projec
   - [SQLAlchemy JSON support](https://github.com/strawberry-graphql/strawberry-sqlalchemy/pull/40)
   - [Refactor tests to use pytest.fixtures](https://github.com/strawberry-graphql/strawberry-sqlalchemy/pull/42)
 
+
+___
+### Evolution API
+<img src="https://github.com/EvolutionAPI/evolution-api/blob/633dbb82d31e04ad16e2a15beeec557ba1c93fab/public/images/cover.png" width="160" height="60">
+
+- **Description**: Evolution API is an open-source WhatsApp integration API
+- **Link**: [Project Link](https://github.com/EvolutionAPI/evolution-api)
+- **Contributions**:
+  - [Fix enviroment var dont applying as expected](https://github.com/EvolutionAPI/evolution-api/pull/590)
+
+
 ___
 ### Sistema de Evolução Clínica
 
