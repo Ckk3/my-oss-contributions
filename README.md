@@ -10,17 +10,14 @@ This repository functions as a catalog of my contributions to open-source projec
 
 - **Description**: A SQLAlchemy Integration for strawberry-graphql
 - **Link**: [Project Link](https://github.com/strawberry-graphql/strawberry-sqlalchemy)
-- **Contributions**:
-  - [SQLAlchemy JSON support](https://github.com/strawberry-graphql/strawberry-sqlalchemy/pull/40)
-  - [Refactor tests to use pytest.fixtures](https://github.com/strawberry-graphql/strawberry-sqlalchemy/pull/42)
+- **Contributions**: [Pull Requests](https://github.com/strawberry-graphql/strawberry-sqlalchemy/pulls?q=is%3Apr+is%3Aclosed+author%3ACkk3+)
 
 ### strawberry-django
 <img src="https://github.com/strawberry-graphql/strawberry/raw/main/.github/logo.png" width="62" height="75">
 
 - **Description**: Strawberry GraphQL Django extension
 - **Link**: [Project Link](https://github.com/strawberry-graphql/strawberry-django)
-- **Contributions**:
-  - [Added export-schema command to Docs](https://github.com/strawberry-graphql/strawberry-django/pull/546)
+- **Contributions**: [Pull Requests](https://github.com/strawberry-graphql/strawberry-django/pulls?q=is%3Apr+is%3Aclosed+author%3ACkk3+)
 
 
 ___
@@ -29,8 +26,15 @@ ___
 
 - **Description**: Evolution API is an open-source WhatsApp integration API
 - **Link**: [Project Link](https://github.com/EvolutionAPI/evolution-api)
-- **Contributions**:
-  - [Fix enviroment var dont applying as expected](https://github.com/EvolutionAPI/evolution-api/pull/590)
+- **Contributions**: [Pull Requests](https://github.com/EvolutionAPI/evolution-api/pulls?q=is%3Apr+is%3Aclosed+author%3ACkk3+)
+
+
+___
+### Python Fluente 2ª Edição (Fluent Python 2nd  Edition)
+
+- **Description**: Official translation of Fluent Python, Second Edition. Translated by @pauloc, produced by @ramalho, and reviewed by the community 😉.
+- **Link**: [Project Link](https://github.com/pythonfluente/pythonfluente2e)
+- **Contributions**: [Pull Requests](https://github.com/pythonfluente/pythonfluente2e/pulls?q=is%3Apr+is%3Aclosed+author%3ACkk3)
 
 
 ___
@@ -40,5 +44,6 @@ ___
 - **Link**: [Project Link](https://github.com/filiperochalopes/sistema-evolucao-medica)
 - **Contributions**:
   - I was responsible for creating all PDF's creation modules using Flask and GraphQl.
+  - [Pull Requests](https://github.com/filiperochalopes/sistema-evolucao-medica/pulls?q=is%3Apr+is%3Aclosed+author%3ACkk3+)
 
 
