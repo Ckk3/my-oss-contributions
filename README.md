@@ -10,6 +10,7 @@ This repository functions as a catalog of my contributions to open-source projec
 
 - **Description**: A SQLAlchemy Integration for strawberry-graphql
 - **Link**: [Project Link](https://github.com/strawberry-graphql/strawberry-sqlalchemy)
+- I'm one of the maintainers.
 - **Contributions**: [Pull Requests](https://github.com/strawberry-graphql/strawberry-sqlalchemy/pulls?q=is%3Apr+is%3Aclosed+author%3ACkk3+)
 
 ### strawberry-django
